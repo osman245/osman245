@@ -5,7 +5,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Warsame and I'm a Software Developer specializing in Dev Ops from Canada</p>
+<p align="left">My name is Warsame and I'm a Software Developer specializing in Dev Ops from Canada. I do freelancing dev Ops consulting and website creation on my sparetime</p>
 
 ###
 
