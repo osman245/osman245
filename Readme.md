@@ -5,15 +5,13 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Warsame and I'm a Software Developer</p>
+<p align="left">My name is Warsame and I'm an IT Engineer</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 17<br>📚 I'm currently learning python and AWS<br>🎯 Goals: Become a better Developer day by day<br>🎲 Fun fact: I am a liverpool F.C fan, YNWA</p>
 
 ###
 
